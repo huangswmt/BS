@@ -1,0 +1,12 @@
+本工程包含的文件夹及用法：
+    data：         原始数据与中间数据存储
+    data_process：   数据清理与skipgram训练的数据制作
+    font：          中文字体
+    skip_grame：     词向量的训练方法集
+    visualize：      降维数据可视化
+    first_prediction： 首购推荐
+    cluster：       聚类方法
+    
+本工程包含的ipython文件：
+    流程.ipynb      词向量训练+降维可视化+聚类可视化
+    requirements.txt  项目文件依赖
